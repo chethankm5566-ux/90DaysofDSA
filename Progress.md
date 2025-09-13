@@ -1,100 +1,14 @@
-# 📅 90 Days of DSA – Daily Progress Tracker
-
-This file tracks my **day-by-day progress** on the 90-day roadmap. Update the ✅/⬜ as you complete each day.
-
----
-
-## ✅ Progress Table
+ ✅ Progress Table
 
 | Day | Topic / Task | Status |
 |-----|--------------|--------|
-| 1 | Task for Day 1 | ⬜ |
-| 2 | Task for Day 2 | ⬜ |
-| 3 | Task for Day 3 | ⬜ |
-| 4 | Task for Day 4 | ⬜ |
-| 5 | Task for Day 5 | ⬜ |
-| 6 | Task for Day 6 | ⬜ |
-| 7 | Task for Day 7 | ⬜ |
-| 8 | Task for Day 8 | ⬜ |
-| 9 | Task for Day 9 | ⬜ |
-| 10 | Task for Day 10 | ⬜ |
-| 11 | Task for Day 11 | ⬜ |
-| 12 | Task for Day 12 | ⬜ |
-| 13 | Task for Day 13 | ⬜ |
-| 14 | Task for Day 14 | ⬜ |
-| 15 | Task for Day 15 | ⬜ |
-| 16 | Task for Day 16 | ⬜ |
-| 17 | Task for Day 17 | ⬜ |
-| 18 | Task for Day 18 | ⬜ |
-| 19 | Task for Day 19 | ⬜ |
-| 20 | Task for Day 20 | ⬜ |
-| 21 | Task for Day 21 | ⬜ |
-| 22 | Task for Day 22 | ⬜ |
-| 23 | Task for Day 23 | ⬜ |
-| 24 | Task for Day 24 | ⬜ |
-| 25 | Task for Day 25 | ⬜ |
-| 26 | Task for Day 26 | ⬜ |
-| 27 | Task for Day 27 | ⬜ |
-| 28 | Task for Day 28 | ⬜ |
-| 29 | Task for Day 29 | ⬜ |
-| 30 | Task for Day 30 | ⬜ |
-| 31 | Task for Day 31 | ⬜ |
-| 32 | Task for Day 32 | ⬜ |
-| 33 | Task for Day 33 | ⬜ |
-| 34 | Task for Day 34 | ⬜ |
-| 35 | Task for Day 35 | ⬜ |
-| 36 | Task for Day 36 | ⬜ |
-| 37 | Task for Day 37 | ⬜ |
-| 38 | Task for Day 38 | ⬜ |
-| 39 | Task for Day 39 | ⬜ |
-| 40 | Task for Day 40 | ⬜ |
-| 41 | Task for Day 41 | ⬜ |
-| 42 | Task for Day 42 | ⬜ |
-| 43 | Task for Day 43 | ⬜ |
-| 44 | Task for Day 44 | ⬜ |
-| 45 | Task for Day 45 | ⬜ |
-| 46 | Task for Day 46 | ⬜ |
-| 47 | Task for Day 47 | ⬜ |
-| 48 | Task for Day 48 | ⬜ |
-| 49 | Task for Day 49 | ⬜ |
-| 50 | Task for Day 50 | ⬜ |
-| 51 | Task for Day 51 | ⬜ |
-| 52 | Task for Day 52 | ⬜ |
-| 53 | Task for Day 53 | ⬜ |
-| 54 | Task for Day 54 | ⬜ |
-| 55 | Task for Day 55 | ⬜ |
-| 56 | Task for Day 56 | ⬜ |
-| 57 | Task for Day 57 | ⬜ |
-| 58 | Task for Day 58 | ⬜ |
-| 59 | Task for Day 59 | ⬜ |
-| 60 | Task for Day 60 | ⬜ |
-| 61 | Task for Day 61 | ⬜ |
-| 62 | Task for Day 62 | ⬜ |
-| 63 | Task for Day 63 | ⬜ |
-| 64 | Task for Day 64 | ⬜ |
-| 65 | Task for Day 65 | ⬜ |
-| 66 | Task for Day 66 | ⬜ |
-| 67 | Task for Day 67 | ⬜ |
-| 68 | Task for Day 68 | ⬜ |
-| 69 | Task for Day 69 | ⬜ |
-| 70 | Task for Day 70 | ⬜ |
-| 71 | Task for Day 71 | ⬜ |
-| 72 | Task for Day 72 | ⬜ |
-| 73 | Task for Day 73 | ⬜ |
-| 74 | Task for Day 74 | ⬜ |
-| 75 | Task for Day 75 | ⬜ |
-| 76 | Task for Day 76 | ⬜ |
-| 77 | Task for Day 77 | ⬜ |
-| 78 | Task for Day 78 | ⬜ |
-| 79 | Task for Day 79 | ⬜ |
-| 80 | Task for Day 80 | ⬜ |
-| 81 | Task for Day 81 | ⬜ |
-| 82 | Task for Day 82 | ⬜ |
-| 83 | Task for Day 83 | ⬜ |
-| 84 | Task for Day 84 | ⬜ |
-| 85 | Task for Day 85 | ⬜ |
-| 86 | Task for Day 86 | ⬜ |
-| 87 | Task for Day 87 | ⬜ |
-| 88 | Task for Day 88 | ⬜ |
-| 89 | Task for Day 89 | ⬜ |
-| 90 | Task for Day 90 | ⬜ |
+| 1   | Python Basics (loops, sum, max) | ✅ |
+| 2   | Task for Day 2 | ⏳ |
+| 3   | Task for Day 3 | ⏳ |
+| 4   | Task for Day 4 | ⏳ |
+| 5   | Task for Day 5 | ⏳ |
+| 6   | Task for Day 6 | ⏳ |
+| 7   | Task for Day 7 | ⏳ |
+| 8   | Task for Day 8 | ⏳ |
+| 9   | Task for Day 9 | ⏳ |
+| 10  | Task for Day 10 | ⏳ |
